@@ -1,8 +1,5 @@
----
+## LLM-Powered Prompt Router for Intent Classification
 
-# LLM-Powered Prompt Router for Intent Classification
-
----
 
 # Overview
 
@@ -298,16 +295,7 @@ Routes to:
 ```
 
 Produces a Python solution.
-
----
-
-# Stretch Goals Implemented
-
-✔ Confidence threshold fallback  
-✔ Manual intent override  
-✔ CLI intent visibility  
-✔ Observability logging  
-✔ Docker containerization  
+ 
 
 ---
 
@@ -335,6 +323,3 @@ Enables debugging and analytics.
 - support streaming responses  
 
 ---
-## Project Demo Video
-
-▶️ https://drive.google.com/file/d/1tNQUs9Nkj12dLME8fRVUW0NhwSkemsia/view?usp=sharing
